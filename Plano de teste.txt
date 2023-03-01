@@ -1,0 +1,95 @@
+Projeto: Juntos somos +
+Tester: Aracelli Novaes
+2023
+
+1 Introdução 
+1.1 Informação Geral:
+
+Esse documento descreve os métodos e procedimentos que serão utilizados
+no processo de teste da aplicação web.
+O objetivo das atividades de testé pe checar as funcções e funcionalidades
+do produto de software desenvolvido para browsers Web.
+
+
+1.2 Propósito:
+
+Esse Plano de testes para o projeto Juntos Somos + inclui os seguintes 
+objetivos:
+ - Identificar informações e componentes na aplicação a seres testados;
+ - Recomendação e descrição de estratégias de teste a serem aplicadas;
+ - Identificar os recursos necessários e estimar o esforço para a realização do teste;
+ - Listar os produtos de trabalho do teste.
+
+
+2 Escopo do projeto
+
+Serão testados os seguintes componentes do sistema:
+- Login e recuperação de senha;
+- Cadastro.
+
+
+3 Plano de trabalho
+
+- Preparação do plano de testes
+- Desenvolvimento do Script de teste
+- Execução dos testes manuais e automatizados
+- Report de defeitos
+
+4 Plano de Teste e Estratégia
+4.1 Teste funcional
+
+O objetivo do teste funcional é garantir que todo o produto de software funcione
+de acordo com os requisitos, e nenhum erro significativo aparece no aplicativo.
+O teste funcional é a parte mais substancial do teste de software. envolve verificar
+diferentes aspectos do sistema. Um produto de software deve passar em todos os testes planejados.
+Apenas neste caso, sua qualidade pode ser assegurada.
+
+- Técnica:
+Executar cada caso de uso, fluxo de caso de uso ou função, usando
+dados válidos e inválidos, para verificar o seguinte:
+● Os resultados esperados ocorrem quando dados válidos são usados.
+● As mensagens de erro ou aviso apropriadas são exibidas quando
+dados inválidos são usados.
+● Cada regra é aplicada corretamente.
+
+- Critério de Entrada:
+● A construção do aplicativo está concluída.
+● Os dispositivos, instrumentos e outros equipamentos necessários.
+● O ambiente de teste é preparado e o aplicativo é liberado para o
+ambiente de teste.
+
+- Critérios de Conclusão:
+● Todos os testes planejados são executados.
+● Não há erros que interrompam a exibição.
+● Todos os erros de alta prioridade e gravidade são corrigidos.
+● Os resultados dos testes são avaliados, discutidos e aprovados.
+
+4.2 Relatório de erros
+Os relatórios de bugs são criados para fornecer à equipe de desenvolvimento e ao projeto
+gerentes com informações exaustivas sobre os defeitos descobertos. Eles devem ser úteis
+determinar as causas dos erros e corrigi-los.
+
+5 Recursos
+5.1 Ferramentas
+
+- Cypress
+- Visual Studio
+- Jira
+
+5.2 Browser
+
+- Chrome
+
+5.3 Dispositivos
+
+- Iphone X 
+- 720p
+- 1080p
+
+6 Critério de Qualidade
+O produto deve operar conforme requisitos e senso comum.
+
+7 Produtos de trabalho
+● Plano de teste.
+● Script de teste.
+● Report de bugs.
