@@ -1,6 +1,6 @@
 # Teste de Cadastro e Login de aplicação Web
 
-Este repositório contém os produtos de trabalho desenvolvidos para o teste dos componentes de cadastro e login de aplicação web.
+Este repositório irá conter os produtos de trabalho desenvolvidos para o teste dos componentes de cadastro e login de aplicação web.
 
 ## Aplicação testada
 
